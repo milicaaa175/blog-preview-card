@@ -30,6 +30,10 @@ a:hover h1 {
     color: hsl(47, 88%, 63%);
 }
 
+a:focus h1 {
+    color: hsl(47, 88%, 63%);
+}
+
 #illustration {
     border-radius: 0.625rem; 
     max-width: 100%;
